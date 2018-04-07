@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gaia</string>
+    <string name="acceso">Acceso</string>
+    <string name="descripcion_logo">Gaia logo</string>
+    <string name="email">Email</string>
+    <string name="password">Contraseña</string>
+    <string name="entrar">Entrar</string>
+    <string name="texto_registrate">¿No tienes una cuenta?</string>
+</resources>
